@@ -1,1 +1,2 @@
 Testing GitHub settings.
+Testing VSCode Git settings.
